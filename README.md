@@ -5,3 +5,8 @@ class : RPL XI-A
 # Development Tools
 unity version: 2022.3.6f1
 sevile plugin: Training version
+
+# Aplication Info
+
+name: Bookstore-cashier
+desc: is,t about game vr for shopping
